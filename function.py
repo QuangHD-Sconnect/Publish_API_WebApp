@@ -20,9 +20,9 @@ import json
 def get_access_token():
     url = "https://www.googleapis.com/oauth2/v4/token"
     data = {'Content-Type': 'application/json',
-    "client_id": '824147316375-27mamdrm69u99q8pumb9ngnls43lmac5.apps.googleusercontent.com',
-    "client_secret": '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',
-    "refresh_token": '1//04UHo_dyNgJ5DCgYIARAAGAQSNwF-L9IrDLjeQYqo1cTxmJe_QcVFQrVww_yFLJeBiVE0wssU3Ix0yI4IhdkGELLp-A4A3wpQWNs',
+    "client_id": '', #Đã copy client_ID trong file hướng dẫn
+    "client_secret": '', #Đã copy server_ID trong file hướng dẫn
+    "refresh_token": '', #Đã copy refresh_token trong file hướng dẫn
     "grant_type": "refresh_token"
     }
     x = requests.post(url, data=data)
