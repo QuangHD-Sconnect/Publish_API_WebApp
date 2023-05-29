@@ -43,3 +43,4 @@ Trong phần này, mục tiêu của ta là sẽ lấy được 1 File có đị
  
 ## 3. Điền thông số
 Sau khi đã lấy được 3 thông số ở trên. Ta điền các thông số đó vào File function.py
+Trong phần khai báo function get_access_token()
