@@ -41,3 +41,5 @@ Trong phần này, mục tiêu của ta là sẽ lấy được 1 File có đị
 - Sang Step 2 ta chỉ cần bấm vào nút "Exchange authorization code for tokens". refresh_token sẽ tự động hiện và ta copy lại.
  ![Pic 12](https://github.com/QuangHD-Sconnect/Youtube-API-Web/blob/main/API%20doc%20image/Picture12.png?raw=true)
  
+## 3. Điền thông số
+Sau khi đã lấy được 3 thông số ở trên. Ta điền các thông số đó vào File function.py
